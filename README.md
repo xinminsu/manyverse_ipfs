@@ -6,10 +6,16 @@ nft update： and updated to the existing nft
 Rich Text Editor saved to IPFS    
 https://github.com/tinymce/tinymce  or https://github.com/ckeditor/ckeditor5  
 
+markdown:
+https://github.com/pandao/editor.md
+
+picture:
 https://github.com/1j01/jspaint  
 
+video:
 https://github.com/damianociarla/node-ffmpeg  
 
+3D:
 https://github.com/mrdoob/three.js  
 
 1.save to IPFS:these Rich Text Cloud Editor saved the new create files to  IPFS  
