@@ -29,7 +29,7 @@ next features:
 2.link items or blocks in different files to keep only one saved in ipfs  
 3.index , search, vender these items or blocks from ipfs   
 
-deso dapp:
+Deso dapp: 
 https://gitlab.com/staltz/manyverse
 
 add IPFS storage support for manyverse app, which is a dapp in decentralized social.Now the storage capacity of manyverse is set by the user, and the content beyond this value will be deleted and not saved. This project provides one more option to save the extra information into the IPFS
