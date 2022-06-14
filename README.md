@@ -1,7 +1,7 @@
 # manyverse_ipfs
 
-nft create: NFT is generated from any format of pictures, audio, video, any form files  
-nft update： and updated to the existing nft  
+rich multimedia files save to ipfs: files generated from any format of pictures, audio, video, any form files  
+rich multimedia files update： and updated to the existing nft  
 
 markdown:  
 https://github.com/pandao/editor.md
