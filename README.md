@@ -33,7 +33,8 @@ https://gitlab.com/staltz/manyverse
 
 add IPFS storage support for manyverse app, which is a dapp in decentralized social.Now the storage capacity of manyverse is set by the user, and the content beyond this value will be deleted and not saved. This project provides one more option to save the extra information into the IPFS
 
-https://user-images.githubusercontent.com/16698808/166881036-894ff3f8-d567-4df5-b756-a379549d42e5.png
+![image](https://user-images.githubusercontent.com/16698808/173471175-4948a215-1860-43da-9578-a1e13e16685f.png)
+
 
 
 email:  
