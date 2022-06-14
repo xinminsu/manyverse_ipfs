@@ -1,4 +1,4 @@
-# nft_editor
+# manyverse_ipfs
 
 nft create: NFT is generated from any format of pictures, audio, video, any form files  
 nft update： and updated to the existing nft  
