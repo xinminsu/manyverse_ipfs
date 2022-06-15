@@ -4,7 +4,7 @@ rich multimedia files save to ipfs: files generated from any format of pictures,
 rich multimedia files update： and updated to the existing nft  
 
 markdown:  
-https://github.com/pandao/editor.md
+https://github.com/marktext/marktext
 
 Rich Text Editor saved to IPFS    
 https://github.com/tinymce/tinymce  or https://github.com/ckeditor/ckeditor5  
