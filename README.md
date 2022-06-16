@@ -10,7 +10,7 @@ https://github.com/marktext/marktext
 
 
 Rich Text Editor saved to IPFS    
-https://github.com/tinymce/tinymce  or https://github.com/ckeditor/ckeditor5  
+https://github.com/quilljs/quill/
 
 
 picture:  
