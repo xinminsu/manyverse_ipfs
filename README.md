@@ -15,12 +15,15 @@ https://github.com/quilljs/quill/
 
 picture:  
 https://github.com/1j01/jspaint 
-![jspain](https://user-images.githubusercontent.com/16698808/174575022-9c74617c-26c2-476c-8d4a-93905c4f3b6d.png)
+
+![jspain](https://user-images.githubusercontent.com/16698808/174998537-d6a04263-f63a-4cf0-a3d3-1048f0370df8.png)
+
 
 
 video:  
 https://github.com/Tenpi/Video-Player
-![ideo_play](https://user-images.githubusercontent.com/16698808/174998352-7ec0d2b6-49e3-46df-acf6-2ede4fc8232c.png)
+
+![ideo_play](https://user-images.githubusercontent.com/16698808/174998580-025bbdce-319f-4827-ba84-79be0ba11144.png)
 
 
 3D:  
